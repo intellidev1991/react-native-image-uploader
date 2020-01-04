@@ -1,0 +1,39 @@
+{
+  "name": "react-native-image-uploader",
+  "version": "1.0.0",
+  "description": "React-Native image uploader with select-able items and show as gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intellidev1991/react-native-image-uploader.git"
+  },
+  "keywords": [
+    "react-native-image-uploader",
+    "react-native-uploader",
+    "react-native",
+    "react-native-image",
+    "ReactNative",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+  ],
+  "author": "Hamed Taheri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intellidev1991/react-native-image-uploader/issues"
+  },
+  "homepage": "https://github.com/intellidev1991/react-native-image-uploader#readme",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}
